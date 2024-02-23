@@ -6,3 +6,6 @@ google==3.0.0
 python-whois
 tld==0.13
 lightgbm
+scikit-learn
+wordcloud
+pandas
