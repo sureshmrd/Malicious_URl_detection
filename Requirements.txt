@@ -4,7 +4,6 @@ streamlit
 streamlit-option-menu
 scikit-learn
 pandas
-googlesearch-python
 re
 urlparse
 tld
