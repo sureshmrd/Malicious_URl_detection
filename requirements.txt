@@ -4,4 +4,4 @@ streamlit==1.2.0
 pickle-mixin==1.0.2
 google==3.0.0
 python-whois
-get_tld==0.13
+tld==0.13
