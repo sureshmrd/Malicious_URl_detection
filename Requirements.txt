@@ -6,4 +6,4 @@ scikit-learn
 pandas
 re
 urlparse
-tld
+tld==0.13
