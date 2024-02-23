@@ -1,9 +1,5 @@
-numpy
-pickle-mixin
-streamlit
-streamlit-option-menu
-scikit-learn
-pandas
-re
-urlparse
+numpy==1.21.4
+streamlit==1.2.0
+pickle-mixin==1.0.2
+google==3.0.0
 tld==0.13
