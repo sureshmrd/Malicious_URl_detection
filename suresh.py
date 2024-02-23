@@ -7,7 +7,7 @@ Created on Fri Feb 23 09:46:19 2024
 import numpy as np
 import streamlit as st
 import pickle
-from googlesearch import search
+# from googlesearch import search
 import re
 from urllib.parse import urlparse
 #from urllib.parse import urlparse
